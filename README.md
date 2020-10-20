@@ -20,7 +20,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas.
 
 Busco aprender novas técnologias e ingressar nesta área de desenvolvimento que tanto amo :heart:
 
-[Site](https://http://techmafra.com.br/) ainda em desenvolvimento.  
+[Site](http://techmafra.com.br/) ainda em desenvolvimento.  
 
 [TechMafra](https://www.instagram.com/techmafra/) é um projeto pessoal para compartilhar conteúdo sobre tecnologia.
 
